@@ -1,0 +1,4 @@
+patient_id,risk_mean,ci_low,ci_high,label
+1,1.000,0.989,1.000,HIGH_tight
+2,0.000,0.002,0.062,LOW_tight
+3,0.527,0.215,0.702,MID_wide
